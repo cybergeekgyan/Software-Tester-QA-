@@ -14,3 +14,20 @@
 
 --Lesson 5
  [introducing manual testing](https://www.guru99.com/manual-testing.html)
+ 
+ ### DAY 2
+ 
+ --Lesson 6
+ [Introduceing automated testing](https://www.guru99.com/automation-testing.html)
+ 
+--Lesson 7
+[unit testing](https://www.guru99.com/unit-testing-guide.html)
+
+--Lesson 8
+[integration testing](https://www.guru99.com/integration-testing.html)
+
+--Lesson 9
+[system testing](https://www.guru99.com/system-testing.html)
+
+--Lesson 10
+[smoke and sanity testing](https://www.guru99.com/smoke-sanity-testing.html)
