@@ -1,5 +1,13 @@
 ### DAY 1
 
+**Quote of the day**:
+
+"I know you've heard it a thousand times before  but it's true - hard work pays off. If you want to be good,
+
+you have to practice, practice and practice. If you don't love something, then don't do it."
+
+-Ray Bradbury (born 1920) Author
+
 --Lesson 1
  [introduction to software testing & its importance](https://www.guru99.com/software-testing-introduction-importance.html)
 
@@ -16,6 +24,11 @@
  [introducing manual testing](https://www.guru99.com/manual-testing.html)
  
  ### DAY 2
+ 
+ **Quote of the day**:
+
+"Hard work doesn't guarantee success, but improves its chances."
+         - B. J. Gupta 
  
  --Lesson 6
  [Introduceing automated testing](https://www.guru99.com/automation-testing.html)
