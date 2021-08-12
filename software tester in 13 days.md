@@ -44,3 +44,31 @@ you have to practice, practice and practice. If you don't love something, then d
 
 --Lesson 10
 [smoke and sanity testing](https://www.guru99.com/smoke-sanity-testing.html)
+
+### DAY 3
+
+**Today's Quote**:
+
+"My grandfather once told me that there were two kinds of people: those who do the work and those who
+
+take the credit.He told me to try to be in the first group; there was much less competition."
+-Indira Gandhi (1917-1984)
+
+--Lesson 11
+[regression testing](https://www.guru99.com/regression-testing.html)
+
+
+--Lesson 12
+[non-functional testing](https://www.guru99.com/non-functional-testing.html)
+
+ 
+--Lesson 13
+[test formality](https://www.guru99.com/testing-documentation.html)
+ 
+ 
+--Lesson 14
+[test scenario](https://www.guru99.com/test-scenario.html)
+ 
+ 
+--Lesson 15
+[test case design](https://www.guru99.com/test-case.html)
