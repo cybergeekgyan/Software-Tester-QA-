@@ -72,3 +72,30 @@ take the credit.He told me to try to be in the first group; there was much less 
  
 --Lesson 15
 [test case design](https://www.guru99.com/test-case.html)
+
+### DAY 4
+
+**Quote of the Day**
+
+"Do you want to spend the rest of your life selling sugared water or do you want a chance to change the world?"
+- Steve Jobs
+
+--Lesson 16
+[test basis](https://www.guru99.com/test-analysis-basis.html)
+ 
+ 
+--Lesson 17
+[Traceability matrix](https://www.guru99.com/traceability-matrix.html)
+ 
+ 
+--Lesson 18
+[equivalence partitioning & boundary value analysis](https://www.guru99.com/equivalence-partitioning-boundary-value-analysis.html)
+ 
+ 
+--Lesson 19
+[decision table testing](https://www.guru99.com/decision-table-testing.html)
+ 
+ 
+--Lesson 20
+[state transition testing](https://www.guru99.com/state-transition-testing.html)
+
