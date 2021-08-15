@@ -99,3 +99,53 @@ take the credit.He told me to try to be in the first group; there was much less 
 --Lesson 20
 [state transition testing](https://www.guru99.com/state-transition-testing.html)
 
+### DAY 5
+
+**Quote of the day:**
+
+"If you give people tools, [and they use] their natural ability and their curiosity, they will develop things in
+ways that will surprise you very much beyond what you might have expected."
+-Bill Gates
+
+--Lesson 21
+[use case testing](https://www.guru99.com/use-case-testing.html)
+
+
+--Lesson 22
+[static testing](https://www.guru99.com/testing-review.html)
+ 
+ 
+--Lesson 23
+[test estimation techniques](https://www.guru99.com/an-expert-view-on-test-estimation.html)
+
+
+--Lesson 24
+[test plan/test strategy document](https://www.guru99.com/what-everybody-ought-to-know-about-test-planing.html)
+ 
+ 
+--Lesson 25
+[software defect/bug](https://www.guru99.com/defect-management-process.html)
+
+
+### DAY 6
+
+**Quote of the Day:**
+
+"Life isn't about finding yourself. Life is about creating yourself!"
+ - George Bernard Shaw.
+
+--Lesson 26
+[The defect/bug life cycle](https://www.guru99.com/defect-life-cycle.html)
+ 
+ 
+--Lesson 27
+[Testing tools - ultimate guide](https://www.guru99.com/testing-tools.html)
+ 
+ 
+--Lesson 28
+[100 types of Software Testing you never knew existed](https://www.guru99.com/types-of-software-testing.html)
+ 
+ 
+--Lesson 29
+[User Acceptance Testing (UAT)](https://www.guru99.com/user-acceptance-testing.html)
+
