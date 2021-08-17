@@ -149,3 +149,24 @@ ways that will surprise you very much beyond what you might have expected."
 --Lesson 29
 [User Acceptance Testing (UAT)](https://www.guru99.com/user-acceptance-testing.html)
 
+### DAY 7 
+
+**Quote of the Day**:
+
+"Nothing is impossible because impossible itself says I M POSSIBLE so, work hard
+and be success in your goal"
+
+--Lesson 30
+[alpha beta testing](https://www.guru99.com/alpha-beta-testing-demystified.html)
+
+
+--Lesson 31
+[usability testing](https://www.guru99.com/usability-testing-tutorial.html)
+
+
+--Lesson 32
+[functional testing](https://www.guru99.com/functional-testing.html)
+
+
+--Lesson 33
+["end to end testing"](https://www.guru99.com/end-to-end-testing.html)
