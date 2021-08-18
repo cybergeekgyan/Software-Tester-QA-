@@ -1,5 +1,9 @@
 # Software-Tester-QA-Roadmap
 
+## LInks and Resources
+
+- [javatpoint software testing](https://www.javatpoint.com/software-testing-tutorial)
+
 ### What Does a Software Tester do?
 
 - *On any typical work day, we will be busy understanding* 
