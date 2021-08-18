@@ -23,6 +23,7 @@ you have to practice, practice and practice. If you don't love something, then d
 --Lesson 5
  [introducing manual testing](https://www.guru99.com/manual-testing.html)
  
+ 
  ### DAY 2
  
  **Quote of the day**:
@@ -44,6 +45,7 @@ you have to practice, practice and practice. If you don't love something, then d
 
 --Lesson 10
 [smoke and sanity testing](https://www.guru99.com/smoke-sanity-testing.html)
+
 
 ### DAY 3
 
@@ -73,6 +75,7 @@ take the credit.He told me to try to be in the first group; there was much less 
 --Lesson 15
 [test case design](https://www.guru99.com/test-case.html)
 
+
 ### DAY 4
 
 **Quote of the Day**
@@ -98,6 +101,7 @@ take the credit.He told me to try to be in the first group; there was much less 
  
 --Lesson 20
 [state transition testing](https://www.guru99.com/state-transition-testing.html)
+
 
 ### DAY 5
 
@@ -149,6 +153,7 @@ ways that will surprise you very much beyond what you might have expected."
 --Lesson 29
 [User Acceptance Testing (UAT)](https://www.guru99.com/user-acceptance-testing.html)
 
+
 ### DAY 7 
 
 **Quote of the Day**:
@@ -170,3 +175,50 @@ and be success in your goal"
 
 --Lesson 33
 ["end to end testing"](https://www.guru99.com/end-to-end-testing.html)
+
+
+### DAY 8
+
+**Quote of the Day**
+
+"If you understand say understand, if you don't understand say don't understand,
+
+But if you don't understand and say understand how can I understand? You understand."
+
+--Lesson 34:
+[positive vs. negative testing](https://www.guru99.com/positive-vs-negative-testing.html)
+ 
+
+--Lesson 35
+[static vs. dynamic testing](https://www.guru99.com/static-dynamic-testing.html)
+ 
+ 
+--Lesson 36
+[adhoc-testing](https://www.guru99.com/adhoc-testing.html)
+
+ 
+--Lesson 37
+[exploratory testing](https://www.guru99.com/exploratory-testing.html)
+
+
+### DAY 9
+
+**Quote of the Day**
+
+"Focus on making yourself better, not on thinking that you are better."
+- Bodhi Sanders
+
+--Lesson 38
+[compatibility testing](https://www.guru99.com/compatibility-testing.html)
+ 
+ 
+--Lesson 39
+[GUI testing](https://www.guru99.com/gui-testing.html)
+ 
+ 
+--Lesson 40
+[API testing](https://www.guru99.com/api-testing.html)
+ 
+ 
+--Lesson 41
+[security testing](https://www.guru99.com/what-is-security-testing.html)
