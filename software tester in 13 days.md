@@ -222,3 +222,26 @@ But if you don't understand and say understand how can I understand? You underst
  
 --Lesson 41
 [security testing](https://www.guru99.com/what-is-security-testing.html)
+
+
+### DAY 10 
+
+**Quote of the Day**
+
+"Life will just not wait for us to live it: We are in it, now, and now is the time to Live"
+- Michelle Graney
+
+--Lesson 42
+[model-based testing](https://www.guru99.com/model-based-testing-tutorial.html)
+ 
+ 
+Lesson 43
+[mutation testing](https://www.guru99.com/mutation-testing.html)
+ 
+ 
+Lesson 44
+[accessibility testing](https://www.guru99.com/accessibility-testing.html)
+ 
+ 
+Lesson 45
+[stress testing](https://www.guru99.com/stress-testing.html)
