@@ -245,3 +245,25 @@ Lesson 44
  
 Lesson 45
 [stress testing](https://www.guru99.com/stress-testing.html)
+
+### DAY 11 
+
+**Quote of the Day**
+
+"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."
+-Albert Einstein
+
+Lesson 46
+[performance testing](https://www.guru99.com/performance-testing.html)
+ 
+ 
+Lesson 47
+[comparing performance testing tools](https://www.guru99.com/performance-testing-tools.html)
+ 
+ 
+Lesson 48
+[ultimate guide to load test your applications](https://www.guru99.com/load-testing.html)
+
+
+Lesson 49
+[penetration testing](https://www.guru99.com/learn-penetration-testing.html)
