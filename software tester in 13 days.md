@@ -267,3 +267,28 @@ Lesson 48
 
 Lesson 49
 [penetration testing](https://www.guru99.com/learn-penetration-testing.html)
+
+
+### DAY 12 
+
+**Quote of the Day**
+
+"Life is a dream for the wise, a game for the fool and a comedy for the rich and a tragedy for the poor."
+-Shalom Aleichem
+
+Lesson 50
+[wite box testing](htt://www.guru99.com/white-box-testing.html
+
+ 
+Lesson 51
+[black box testing]htt://www.guru99.com/black-box-testing.html
+ 
+ 
+Lesson 52
+web testing.
+https://www.guru99.com/web-application-testing.html
+ 
+ 
+Lesson 53
+agile testing, scrum and extreme programming.
+https://www.guru99.com/agile-scrum-extreme-testing.html
