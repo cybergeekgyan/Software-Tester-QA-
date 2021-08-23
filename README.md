@@ -65,3 +65,21 @@ For example - A tool like Testlink can be used for tracking all the test cases w
 - JMeter - Performance Testing tool and  
 
 - TestLink - Test Management Tool.
+
+
+### SOFTWARE TESTING TOOLS
+
+| Testing Tools   | used for  | Link |
+| --------------- | --------------- | --------------- |
+| Selenium |  | [link](https://www.javatpoint.com/selenium-tutorial) |
+| Appium|  | [link](https://www.javatpoint.com/appium) |
+| JMeter|  | [link](https://www.javatpoint.com/jmeter-tutorial) |
+| JUnit |  | [link](https://www.javatpoint.com/junit-tutorial) |
+| Postman|  | [link](https://www.javatpoint.com/postman) |
+| Jira |  | [link](https://www.javatpoint.com/jira-tutorial) |
+| TestNG |  | [link](https://www.javatpoint.com/testng-tutorial) |
+| SoapUI |  | [link](https://www.javatpoint.com/soapui) |
+| Quality Assurance |  | [link](https://www.javatpoint.com/quality-assurance) |
+| Selenium(Python) |  | [link](https://www.javatpoint.com/selenium-python) |
+| SoapUI |  | [link](https://www.javatpoint.com/soapui) |
+| Quality Assurance |  | [link](https://www.javatpoint.com/quality-assurance) |
