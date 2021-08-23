@@ -83,3 +83,7 @@ For example - A tool like Testlink can be used for tracking all the test cases w
 | Selenium(Python) |  | [link](https://www.javatpoint.com/selenium-python) |
 | SoapUI |  | [link](https://www.javatpoint.com/soapui) |
 | Quality Assurance |  | [link](https://www.javatpoint.com/quality-assurance) |
+| Cucumber |  | [link](https://www.javatpoint.com/cucumber-testing) |
+| Bugzilla |  | [link](https://www.javatpoint.com/bugzilla) |
+| Agile |  | [link](https://www.javatpoint.com/agile) |
+| ETL Testing |  | [link](https://www.javatpoint.com/etl-testing) |
