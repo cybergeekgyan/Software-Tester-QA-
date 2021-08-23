@@ -277,21 +277,19 @@ Lesson 49
 -Shalom Aleichem
 
 Lesson 50
-[wite box testing](htt://www.guru99.com/white-box-testing.html
+[wite box testing](https://www.guru99.com/white-box-testing.html)
 
  
 Lesson 51
-[black box testing]htt://www.guru99.com/black-box-testing.html
+[black box testing](https://www.guru99.com/black-box-testing.html)
  
  
 Lesson 52
-web testing.
-https://www.guru99.com/web-application-testing.html
+[web testing](https://www.guru99.com/web-application-testing.html)
  
  
 Lesson 53
-agile testing, scrum and extreme programming.
-https://www.guru99.com/agile-scrum-extreme-testing.html
+[agile testing, scrum and extreme programming](https://www.guru99.com/agile-scrum-extreme-testing.html)
 
 ### DAY 13
 
@@ -311,3 +309,9 @@ https://www.guru99.com/agile-scrum-extreme-testing.html
  
 --Lesson 57
 [tips and tricks to design your test data](https://www.guru99.com/software-testing-test-data.html)
+
+
+
+- Try the test: https://www.guru99.com/tests.html
+
+- [Software Testing Interview Questions](https://www.guru99.com/software-testing-interview-questions.html)
