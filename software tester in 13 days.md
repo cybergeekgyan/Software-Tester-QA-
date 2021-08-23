@@ -292,3 +292,22 @@ https://www.guru99.com/web-application-testing.html
 Lesson 53
 agile testing, scrum and extreme programming.
 https://www.guru99.com/agile-scrum-extreme-testing.html
+
+### DAY 13
+
+**Quote of the Day**
+
+--Lesson 54
+[testing methodology](https://www.guru99.com/testing-methodology.html)
+
+
+--Lesson 55
+[the Cyclomatic complexity](https://www.guru99.com/cyclomatic-complexity.html)
+ 
+ 
+--Lesson 56
+[all about quality assurance](https://www.guru99.com/all-about-quality-assurance.html)
+ 
+ 
+--Lesson 57
+[tips and tricks to design your test data](https://www.guru99.com/software-testing-test-data.html)
