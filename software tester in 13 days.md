@@ -229,7 +229,7 @@ But if you don't understand and say understand how can I understand? You underst
 **Quote of the Day**
 
 "Life will just not wait for us to live it: We are in it, now, and now is the time to Live"
-- Michelle Graney
+-Michelle Graney
 
 --Lesson 42
 [model-based testing](https://www.guru99.com/model-based-testing-tutorial.html)
@@ -294,6 +294,10 @@ Lesson 53
 ### DAY 13
 
 **Quote of the Day**
+
+"Don't ask what the world needs. Ask what makes you come alive and go do it. Because
+what the world needs are more people who have come alive!"
+- Howard Thurman.
 
 --Lesson 54
 [testing methodology](https://www.guru99.com/testing-methodology.html)
