@@ -87,3 +87,4 @@ For example - A tool like Testlink can be used for tracking all the test cases w
 | Bugzilla |  | [link](https://www.javatpoint.com/bugzilla) |
 | Agile |  | [link](https://www.javatpoint.com/agile) |
 | ETL Testing |  | [link](https://www.javatpoint.com/etl-testing) |
+| agent-qa | Web and mobile QA by vostride with persistent memidex memory, validated self-improvement, and recorded evidence. | [docs](https://vostride.com/docs/agent-qa/quickstart) |
